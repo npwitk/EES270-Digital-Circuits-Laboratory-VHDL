@@ -1,5 +1,8 @@
 # EES270 Digital Circuits Laboratory Repository
 
+> [!WARNING]
+> **.vhd files may not open directly in Logic Works 5.** However, you can view all the code in this repository and adapt it to your VHDL files manually if needed.
+
 This repository contains **VHDL code** developed for lab sessions in the EES270 course at SIIT. The labs focus on designing and simulating digital circuits, including basic combinational circuits, sequential circuits, and more complex designs implemented using **Logic Works 5**.
 
 ## File Descriptions
