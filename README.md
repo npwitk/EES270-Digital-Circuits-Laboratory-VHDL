@@ -23,6 +23,11 @@ Below is a brief description of each file included in this repository:
 - `Lab07_1_D_FlipFlop.vhd` — Design of a 3-bit running LED using D Flip-Flop.
 - `Lab07_2_D_FlipFlop.vhd` — Enhanced design of a 3-bit running LED using D Flip-Flop, with additional logic for handling unspecified states (selectable to any state).
 
+### **Lab 08**
+- `Lab08_Mod4.vhd` — Design of a Finite State Machine using D Flip-Flops to perform a mod-4 counting operation. 
+
+  This lab does not require a VHDL code implementation but focuses on implementing the design on a DT-1 trainer board. However, implementing this on a real board can be complicated. This code is provided to demonstrate how the logic works.
+
 ### **Lab 09**
 - `Lab09_VM.vhd` — Design of a vending machine
 
